@@ -4,7 +4,7 @@ Olá pessoal! 👋
 
 Estou animado em compartilhar com vocês o projeto que acabei de concluir! Durante o meu curso de HTML e CSS, decidi criar uma página inspirada na Apple para aplicar minhas habilidades recém-adquiridas.
 
-![Página da Apple](https://rafilde.github.io/Apple-Page/)
+[Página da Apple](https://rafilde.github.io/Apple-Page/)
 
 Utilizando o conhecimento que obtive no curso, desenvolvi um layout impressionante e responsivo, utilizando HTML para estruturar o conteúdo e CSS para dar vida à página.
 
